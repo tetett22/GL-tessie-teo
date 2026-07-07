@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>About</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header>
+
+<h1>About Me</h1>
+
+<nav>
+<a href="index.html">Home</a>
+<a href="about.html">About</a>
+<a href="learning.html">Learning</a>
+<a href="reflections.html">Reflections</a>
+<a href="contact.html">Contact</a>
+</nav>
+
+</header>
+
+<div class="container">
+
+<h2>About Me</h2>
+
+<p>
+I am an engineering student interested in product design, CAD modelling,
+digital manufacturing and engineering optimisation.
+</p>
+
+<p>
+Throughout this semester I gained practical experience using Siemens NX
+to create models, perform topology optimisation, reconstruct scanned
+objects and use 3D scanning technologies.
+</p>
+
+<h2>Skills</h2>
+
+<ul>
+<li>CAD Modelling</li>
+<li>Surface Modelling</li>
+<li>Assembly Design</li>
+<li>Topology Optimization</li>
+<li>Reverse Engineering</li>
+<li>3D Scanning</li>
+</ul>
+
+</div>
+
+<footer>
+© 2026 My Portfolio
+</footer>
+
+</body>
+</html>
