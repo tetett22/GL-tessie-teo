@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Resources</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header>
+
+<h1>Learning Resources</h1>
+
+<nav>
+<a href="index.html">Home</a>
+<a href="about.html">About</a>
+<a href="reflections.html">Experience</a>
+<a href="resources.html">Resources</a>
+<a href="contact.html">Contact</a>
+</nav>
+
+</header>
+
+<div class="container">
+
+<h2>Resources Consulted</h2>
+
+<p>
+Throughout my Guided Learning journey, I referred to various online resources,
+tutorials and reference materials to strengthen my understanding.
+</p>
+
+<!-- CAD -->
+
+<div class="card">
+
+<h2>Computer-Aided Design (CAD)</h2>
+<h2>NX siemens</h2>
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/t7uc9xR6ecA?si=Zi9xM6lKXOOrMkjW"
+title="CAD Tutorial"
+frameborder="0"
+allowfullscreen>
+</iframe>
+
+<h2>autodesk fusion</h2>
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/WKb3mRkgTwg?si=K6FBq8lmalPzzZmV"
+title="CAD Tutorial"
+frameborder="0"
+allowfullscreen>
+</iframe>
+
+</div>
+
+<!-- 3D Scanning -->
+
+<div class="card">
+
+<h2>3D Scanning</h2>
+
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/Ft9qTVCMwC4?si=CrTFkm75sdyXG0bd"
+title="3D Scanning"
+frameborder="0"
+allowfullscreen>
+</iframe>
+
+</div>
+
+<!-- Websites -->
+
+<div class="card">
+
+<h2>Websites</h2>
+
+<ul>
+<li><a href="https://training.plm.automation.siemens.com/index.cfm" target="_blank">Siemens NX</a></li>
+
+<li><a href="https://www.autodesk.com/products/fusion-360" target="_blank">Autodesk Fusion</a></li>
+
+
+</ul>
+
+</div>
+
+</div>
+
+<footer>
+© 2026 GL ePortfolio
+</footer>
+
+</body>
+</html>
