@@ -18,14 +18,26 @@ header{
 /* images */
 .full-image{
     width:100%;
-    max-width:320px;   /* change this number to make them bigger or smaller */
     height:auto;
-    display:inline-block;
-    margin:6px;
-    vertical-align:top;
+    display:block;
     border-radius:6px;
 }
 
+/* two images per row */
+.card{
+    display:grid;
+    grid-template-columns:1fr 1fr;
+    gap:15px;
+}
+
+.card h2{
+    grid-column:1 / -1;   /* heading takes the full row */
+    margin:0;
+}
+
+.card p:empty{
+    display:none;         /* hides the empty <p> from your stray </p> tags */
+}
 /* Navigation */
 nav{
     margin-top:15px;
