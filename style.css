@@ -15,11 +15,15 @@ header{
     padding:25px;
 }
 
-/*images*/
+/* images */
 .full-image{
     width:100%;
+    max-width:320px;   /* change this number to make them bigger or smaller */
     height:auto;
-    display:block;
+    display:inline-block;
+    margin:6px;
+    vertical-align:top;
+    border-radius:6px;
 }
 
 /* Navigation */
