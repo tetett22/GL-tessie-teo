@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Experience</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header>
+
+<h1>podfolio</h1>
+<nav>
+<a href="index.html">Home</a>
+<a href="about.html">About</a>
+<a href="reflections.html">Experience</a>
+<a href="resources.html">Resources</a>
+<a href="learning-contract.html">Learning Contract</a>
+<a href="contact.html">Contact</a>
+</nav>
+
+</header>
+
+<div class="container">
+
+<div class="card">
+<h2>Siemens NX</h2>
+<img src="image/Screenshot 2026-08-06 213753.png" class="full-image">
+<img src="image/Screenshot 2026-08-06 213813.png" class="full-image">
+</p>
+
+
+
+</div>
+<div class="card">
+<h2>Fusion 360</h2>
+<img src="" class="full-image">
+<img src="" class="full-image">
+
+</p>
+
+</div>
+<div class="card">
+<h2>Drafting</h2>
+<img src="image/Screenshot 2026-08-06 213753.png" class="full-image">
+<img src="image/Screenshot 2026-08-06 213813.png" class="full-image">
+</p>
+
+
+</div>
+
+<div class="card">
+<h2>Topology Optimization</h2>
+<img src="image/fea.png" class="full-image">
+<img src="image/fea2.png" class="full-image">
+<p>
+
+
+</div>
+<div class="card">
+<h2>3D Scanning </h2>
+<img src="image/3dscan1.jpeg" class="full-image">
+<img src="image/3dscan2.jpeg" class="full-image">
+<img src="image/3dscan3.png" class="full-image">
+<p>
+
+</div>
+  
+
+<footer>
+© 2026 gl Portfolio
+</footer>
+
+</body>
+</html>
